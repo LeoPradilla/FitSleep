@@ -12,7 +12,7 @@
 
 Once you've established a connection you'll gain access to a wealth of data and resources.</p>
 
-<p style="text-align:center;"><img src="images/available_scopes.png" alt="Available Scores" style="height:370px; width:538px" /></p>
+<img src="images/available_scopes.png" alt="Available Scores" style="height:370px; width:538px" />
 
 ### Preserving the data
 
