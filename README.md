@@ -10,9 +10,9 @@
 
 <p align="justify">Extracting data from a Fitbit device may seem daunting, but fortunately, Fitbit provides a <a href = "https://dev.fitbit.com/build/reference/web-api/developer-guide/">developer guide</a> to help users establish a connection to their account and access the data they need. This guide is an invaluable resource, containing a comprehensive list of available resources and endpoints, along with details on the syntax required, expected responses, and descriptions of each element returned by every endpoint.<br><br>it's essential to read the <a href="https://dev.fitbit.com/build/reference/web-api/developer-guide/best-practices/">Best Practices</a> section of the developer guide. This section provides valuable guidance on how to optimize your application's performance and improve the user experience. It covers crucial topics such as caching, pagination, error handling, and rate limiting, all of which are essential considerations when working with an API.<br><br>During my analysis, I needed data from the past year and quickly discovered the <a href="https://dev.fitbit.com/build/reference/web-api/developer-guide/application-design/#Rate-Limits">rate limits</a> that apply to the Fitbit Web API. Although these rate limits presented a minor inconvenience while extracting the information, they were ultimately a necessary measure to ensure the API's stability and reliability. To work around this limitation, I had to think creatively about how to store my data efficiently.
 
-Once you've established a connection you'll gain access to a wealth of data and resources.
+Once you've established a connection you'll gain access to a wealth of data and resources.</p>
 
-<img src="images/available_scopes.png" alt="Available Scores" style="height:566px; width:808px" />
+<p style="text-align:center;"><img src="images/available_scopes.png" alt="Available Scores" style="height:370px; width:538px" /></p>
 
 ### Preserving the data
 
