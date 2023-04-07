@@ -12,4 +12,7 @@
 
 Once you've established a connection you'll gain access to a wealth of data and resources.
 
-<img src="https://github.com/LeoPradilla/FitSleep/blob/main/images/available_scopes.png" alt="Available Scores" style="height:566px; width:808px" />
+<img src="images/available_scopes.png" alt="Available Scores" style="height:566px; width:808px" />
+
+### Preserving the data
+
