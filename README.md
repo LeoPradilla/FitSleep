@@ -27,7 +27,7 @@ For example, to request information about sleep, the endpoint <a href="https://d
 
 Once the information has been extracted, I used the Pandas function `json_normalize` to flatten the JSON response into a DataFrame. Then, I performed exploratory data analysis (EDA) as needed, before finally dumping the DataFrame into the database.</p>
 
-The code and the list of the endpoints used can be found in this <a href="https://github.com/LeoPradilla/FitSleep/blob/main/files/fitbit_api_db">jupyter notebook</a>.
+The code and the list of the endpoints used can be found in this <a href="https://github.com/LeoPradilla/FitSleep/blob/main/files/fitbit_conn.ipynb">jupyter notebook</a>.
 
 <p align="justify">
 Note: 
