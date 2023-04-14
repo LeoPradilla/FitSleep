@@ -32,10 +32,45 @@ Note:
 It's important to acknowledge that the data collected may have some limitations due to sporadic data collection. There were days when I forgot to wear the device, or it failed to record data. While this may introduce some challenges to the analysis process, it also reflects the unpredictable nature of our daily lives. As an analyst, I must work with the data available to me and make the most of my findings, taking into account any limitations of the dataset.
 
 
+### Data Exploration and Analysis
 
-### Data analysis
+While exploring the data, I found some inconsistencies with sleep variables, particularly with the duration variable. To detect outliers, I used visual inspection by creating a histogram and a boxplot to identify points that were far away from the bulk of the data.
 
+<img src="images/sleep_histoplot.png" alt="Histogram" style="height:260px; width:350px"/> <img src="images/sleep_boxplot.png" alt="Boxplot" style="height:260px; width:350px"/>
+
+I used `pd.describe()` to get a quick overview of the distribution of `duration`
+
+```python
+# check stats
+sleep_df['duration'].describe()
+```
+<img src="images/sleep_describe.png" alt="Histogram"/>
+
+What is this telling me?
+
+A duration of only 180 minutes, which is equivalent to three hours, is not enough to be considered a complete sleep cycle. Additionally, there may be instances where the Fitbit device fails to capture my sleeping data or where the battery dies while I'm sleeping, resulting in incomplete or inaccurate data. Therefore, removing these outliers will improve the accuracy and reliability of the data, enabling more precise analyses and better insights.
+
+To remove the outliers I used the <a href="https://statisticsbyjim.com/basics/interquartile-range/">interquartile range (IQR)</a> method, which involves calculating the IQR and then defining outliers as values that fall below the first quartile minus 1.5 times the IQR, or above the third quartile plus 1.5 times the IQR."
+
+```python
+# Using IQR
+q75,q25 = np.percentile(sleep_df['duration'],[75,25])
+iqr = q75 - q25
+lower_limit = q25 - 1.5*iqr
+upper_limit = q75 + 1.5*iqr
+```
+By using the lower and upper limits, the outliers can be trimmed.
+
+```python
+# select the index
+drop_index = sleep_df[(sleep_df['duration']<lower_limit)|(sleep_df['duration']>upper_limit)].index
+
+# drop the outliers
+sleep_df = sleep_df.drop(drop_index,axis=0)
+```
 
 #### Sleep analysis
+
+
 
 #### Activity analysis
