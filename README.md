@@ -36,7 +36,10 @@ It's important to acknowledge that the data collected may have some limitations 
 
 While exploring the data, I found some inconsistencies with sleep variables, particularly with the duration variable. To detect outliers, I used visual inspection by creating a histogram and a boxplot to identify points that were far away from the bulk of the data.
 
-<img src="images/sleep_histoplot.png" alt="Histogram" style="height:260px; width:350px"/> <img src="images/sleep_boxplot.png" alt="Boxplot" style="height:260px; width:350px"/>
+<p float="left">
+  <img src="images/sleep_histoplot.png" alt="Histogram" style="height:260px; width:350px"/> 
+  <img src="images/sleep_boxplot.png" alt="Boxplot" style="height:260px; width:350px"/>
+</p>
 
 I used `pd.describe()` to get a quick overview of the distribution of `duration`
 
@@ -71,6 +74,20 @@ sleep_df = sleep_df.drop(drop_index,axis=0)
 
 #### Sleep analysis
 
+<p align="justify">Having a good night's sleep is vital for maintaining overall health and well-being. While sleeping, our body performs essential functions, including repairing tissues, regulating hormones, growing muscles, and enhancing immune system function. Not getting enough sleep or having poor quality sleep can have detrimental effects on our health, such as decreased cognitive function, impaired decision-making, and an increased risk of accidents, illness, and disease.</p>
 
+<p align="justify">In August 2022, I relocated to Canada from Colombia. Consequently, I separated the original sleep data into two groups, one comprising data collected after my move to Canada and the other containing data collected before that and then computed some basic statistics for each group. 
+
+<p float="left">
+  <img src="images/sleep_distribution_boxplot.png" alt="Boxplot" style="height:367px; width:305px"/>
+  <img src="images/sleep_distribution.png" alt="Histogram" style="height:331px; width:429px"/>   
+</p>
+<p float="center">
+  <img src="images/sleep_by_day.png" alt="Histogram" style="height:331px; width:524px"/>   
+</p>
+
+
+
+I found that in Colombia, my mean duration of sleep is 454 minutes (or approximately 7.5 hours), which is slightly longer than in Canada at 442 minutes (or approximately 7.36 hours), with a difference of approximately 12 minutes. However, the standard deviation of my sleep duration is slightly higher in Canada (60 minutes) than in Colombia (56 minutes), suggesting that there is greater variability in sleep duration since I arrived in Canada.</p>
 
 #### Activity analysis
