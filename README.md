@@ -104,9 +104,28 @@ Comparing my sleep stages between Canada and Colombia:
 <p align="center">
   <img src="images/sleep_stages_country.png" alt="Histogram" style="height:333px; width:520px"/>   
 </p>
+<p align="center">
+    <em>Sleep Stages by Country</em>
+</p>
 
 
 <p align="justify">Based on my sleep data, I have found that my light sleep accounts for 60.2% of my nightly sleep, while deep sleep accounts for 16.3%, and REM sleep accounts for 11%. These proportions differ slightly from the <a href="https://blog.fitbit.com/sleep-stages-explained/">recommended amounts for adults</a>, which suggest that light sleep should make up 50-60% of the night, deep sleep should make up 10-25%, and REM sleep should make up 20-25%. This information suggest that my sleep stages were not significantly affected by the move to Canada. However, it does suggest that I should focus on increasing the duration of my deep sleep. night.</p>
 
+Finally, it's important to assess whether there is any correlation between the duration of my sleep and the other variables.
+
+<p align="center">
+  <img src="images/sleep_corr.png"style="height:383px; width:472px"/>   
+</p>
+<p align="center">
+    <em>Correlation between variables</em>
+</p>
+
+<p align="justify">Based on the data, it appears that a longer duration of sleep could lead to more REM and light sleep. Interestingly, the day of the week does not seem to significantly affect the duration of sleep. Additionally, the data indicates that a longer sleep duration may not necessarily result in better sleep quality.
+
+Surprisingly, the data suggests that my transition from Colombia to Canada had little to no impact on the duration and quality of my sleep. However, it is possible that this transition has affected my lifestyle, particularly my activity levels. Let's explore my activity data.
+</p>
+
 
 #### Activity analysis
+
+
