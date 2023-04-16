@@ -39,8 +39,7 @@ It's important to acknowledge that the data collected may have some limitations 
 <p align="justify">While exploring the data, I found some inconsistencies with sleep variables, particularly with the duration variable. To detect outliers, I used visual inspection by creating a histogram and a boxplot to identify points that were far away from the bulk of the data.</p>
 
 <p align="center">
-  <img src="images/sleep_histoplot.png" alt="Histogram" style="height:234px; width:315px"/> 
-  <img src="images/sleep_boxplot.png" alt="Boxplot" style="height:234px; width:315px"/>
+  <img src="images/sleep_histoplot_boxplot.png" style="height:280px; width:840px"/>   
 </p>
 
 I used `pd.describe()` to get a quick overview of the distribution of `duration`
@@ -85,11 +84,7 @@ Find the analysis for this project in the <a href="/files/analyzing_data.ipynb">
 <p align="justify">In August 2022, I relocated to Canada from Colombia. Consequently, I separated the original sleep data into two groups, one comprising data collected after my move to Canada and the other containing data collected before that and then computed some basic statistics for each group.</p> 
 
 <p align="center">
-  <img src="images/sleep_distribution_boxplot.png" alt="Boxplot" style="height:330px; width:275px"/>
-  <img src="images/sleep_distribution.png" alt="Histogram" style="height:316px; width:386px"/>   
-</p>
-<p align="center">
-  <img src="images/sleep_by_day.png" alt="Histogram" style="height:331px; width:524px"/>   
+  <img src="images/sleep_distribution.png" style="height:350px; width:840px"/>  
 </p>
 
 <p align="justify">I found that in Colombia, my mean duration of sleep is 454 minutes (or approximately 7.5 hours), which is slightly longer than in Canada at 442 minutes (or approximately 7.36 hours), with a difference of approximately 12 minutes. However, the standard deviation of my sleep duration is slightly higher in Canada (60 minutes) than in Colombia (56 minutes), suggesting that there is greater variability in sleep duration since I arrived in Canada.</p>
