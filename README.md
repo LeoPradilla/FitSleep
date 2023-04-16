@@ -74,6 +74,7 @@ drop_index = sleep_df[(sleep_df['duration']<lower_limit)|(sleep_df['duration']>u
 # drop the outliers
 sleep_df = sleep_df.drop(drop_index,axis=0)
 ```
+Find the analysis for this project in the <a href="/files/analyzing_data.ipynb">Jupyter Notebook</a>, which includes data sources, processing methods, and analytical techniques.
 
 #### Sleep analysis
 
