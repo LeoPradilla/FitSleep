@@ -49,7 +49,9 @@ I used `pd.describe()` to get a quick overview of the distribution of `duration`
 # check stats
 sleep_df['duration'].describe()
 ```
-<img src="images/sleep_describe.png" alt="Histogram"/>
+<p align="center">
+  <img src="images/sleep_describe.png" alt="Histogram"/>
+</p>
 
 <p align="justify">
 What is this telling me?
