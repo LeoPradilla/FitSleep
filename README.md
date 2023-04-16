@@ -1,3 +1,6 @@
+<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</p>
+
+
 # Tracking the Transition: An Analysis of Fitbit Data Across Borders
 
 <p align="justify">For nearly four years, I've relied on my Fitbit to track virtually every aspect of my daily routine, from the number of steps I take to the quality of my sleep. Even when I go for a stroll or hit the gym, I make sure to wear my trusty device, eager to see how my fitness metrics stack up against my previous workouts. It's a thrilling feeling to watch my physique improve over time, and I'm always eager to see how I can further refine my health habits using the rich data that Fitbit provides.<br><br>Since moving to Canada last year, my daily routine has undergone a significant transformation (new country, new life?), and I've noticed that this shift has impacted various aspects of my life. Specifically, I've observed that my physical activity level and quality of sleep have been affected, but to what extent remains unclear. Fortunately, I've consistently relied on my Fitbit to track my daily activity and sleep patterns, enabling me to investigate these changes in greater detail. With this project, my main objectives are to:</p>
@@ -173,3 +176,5 @@ Areas of improvement:
 - Having new goals for my physical activitis will be better. Setting a goal of working out at least three times per weeks and, now that summer is here, going for an outdoor run on the weekends.
 
 <p align="justify">Exploring my Fitbit data was both fun and insightful, as it allowed me to gain a deeper understanding of my physical activity levels, sleep patterns, and overall health. The data also allowed me to identify patterns and trends in my activity levels, which I could use to set new goals and make adjustments to my daily routine. Overall, exploring my Fitbit data was a valuable experience that has motivated me to stay active and prioritize my health and well-being.</p>
+
+<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</p>
