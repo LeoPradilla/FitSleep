@@ -141,5 +141,15 @@ To stay active during the week, I've been running on a treadmill or outdoors (wh
 
 <p align="justify">I'm shocked to learn that my current level of physical activity is falling below the recommended guidelines set by the World Health Organization (WHO). Despite considering myself a very active person, my average activity falls slightly below the recommended levels. While I can attribute this to factors like the Canadian winter and a busy schedule with work and studies, the reality is that I need to increase both the frequency and duration of my exercise routine.</p>
 
+<p align="center">
+  <img src="images/calories_activity_country.png" style="height:392px; width:370px"/>   
+</p>
+<p align="center">
+    <em>Calories by activity</em>
+</p>
 
+<p align="justify">Upon closer examination of each activity, it is evident that I have been engaging in considerably less exercise since coming to Canada. In total, I burned a cumulative 61.768 calories in Colombia, compared to only 47.742 in Canada, representing a 22% decrease in calories burned.</p>
 
+#### Does Exercise Impact Sleep Quality?
+
+Finally, let's examine whether the amount of exercise has any relationship to the amount and quality of my sleep.
