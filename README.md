@@ -39,7 +39,7 @@ It's important to acknowledge that the data collected may have some limitations 
 <p align="justify">While exploring the data, I found some inconsistencies with sleep variables, particularly with the duration variable. To detect outliers, I used visual inspection by creating a histogram and a boxplot to identify points that were far away from the bulk of the data.</p>
 
 <p align="center">
-  <img src="images/sleep_histoplot_boxplot.png" style="height:280px; width:840px"/>   
+  <img src="images/sleep_histoplot_boxplot.png" style="height:240px; width:720px"/>   
 </p>
 
 I used `pd.describe()` to get a quick overview of the distribution of `duration`
@@ -94,7 +94,7 @@ Find the analysis for this project in the <a href="/files/analyzing_data.ipynb">
 <p align="justify">Each sleep stage has its own unique characteristics and functions, and play crucial roles in maintaining overall health and well-being.. Deep sleep, also known as slow-wave sleep, is important for physical restoration, including the repair of tissues and the release of growth hormones. REM sleep, on the other hand, is essential for cognitive function and memory consolidation, and is also associated with emotional regulation and creativity. Finally, light sleep is important for maintaining the sleep-wake cycle and allowing the body to transition between different stages of sleep. </p>
 
 <p align="center">
-  <img src="images/sleep_stages.png" alt="Histogram" style="height:300px; width:383px"/>   
+  <img src="images/sleep_stages.png" alt="Histogram" style="height:300px; width:300px"/>   
 </p>
 
 Comparing my sleep stages between Canada and Colombia:
