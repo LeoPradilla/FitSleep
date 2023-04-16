@@ -133,11 +133,13 @@ Surprisingly, the data suggests that my transition from Colombia to Canada had l
 To stay active during the week, I've been running on a treadmill or outdoors (when possible) and working out at the gym. Based on the graph below, I discovered that during my time in Colombia, I was averaging two strength exercises per week and running for 163 minutes per week, which is just within the lower recommended threshold. Unfortunately, since moving to Canada, my activity levels have worsened. I'm now working out at the gym an average of 1.5 times per week and running for only 142 minutes per week.</p>
 
 <p align="center">
-  <img src="images/activity_mean_country.png"/>   
+  <img src="images/activity_mean_country.png" style="height:314px; width:620px"/>   
 </p>
 <p align="center">
     <em>Strenght and Cardio activity</em>
 </p>
 
 <p align="justify">I'm shocked to learn that my current level of physical activity is falling below the recommended guidelines set by the World Health Organization (WHO). Despite considering myself a very active person, my average activity falls slightly below the recommended levels. While I can attribute this to factors like the Canadian winter and a busy schedule with work and studies, the reality is that I need to increase both the frequency and duration of my exercise routine.</p>
+
+
 
