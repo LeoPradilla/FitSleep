@@ -161,4 +161,14 @@ Finally, let's examine whether the amount of exercise has any relationship to th
 
 <p align="justify">According to the <a href="https://www.sleepfoundation.org/physical-activity/exercise-and-sleep">Sleep Foundation</a>, exercising improves sleep for many people by enhancing sleep quality and reducing the time it takes to fall asleep. However, based on my data, it appears that I am not one of those individuals. While I could not find a strong correlation between active levels of activity and sleep duration, I did observe a negative impact on the time I spend sleeping when I am sedentary.</p>
 
+### Key Takeaways
 
+One of the main objectives of this project was to derive interesting insights from my Fitbit Data, mainly to assess how I'm doing and what areas need improvement.
+From the data, I found that, surprisingly, moving to Canada has had a minor impact on my sleep quality and duration, but the number of calories burned, probably due to winter and being busy with work and college, has decreased by 22%. One final insight is that the days that I don't exercise have a small negative impact on the time I spend sleeping.
+
+Areas of improvement:
+
+- Improve my sleep quality by having a fix schedule, removing electronic devices from my room and avoiding sedentarism.
+- Having new goals for my physical activitis will be better. Setting a goal of working out at least three times per weeks and, now that summer is here, going for an outdoor run on the weekends.
+
+Exploring my Fitbit data was both fun and insightful, as it allowed me to gain a deeper understanding of my physical activity levels, sleep patterns, and overall health. The data also allowed me to identify patterns and trends in my activity levels, which I could use to set new goals and make adjustments to my daily routine. Overall, exploring my Fitbit data was a valuable experience that has motivated me to stay active and prioritize my health and well-being.
