@@ -1,4 +1,4 @@
-<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</p>
+<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</a>
 
 
 # Tracking the Transition: An Analysis of Fitbit Data Across Borders
@@ -177,4 +177,4 @@ Areas of improvement:
 
 <p align="justify">Exploring my Fitbit data was both fun and insightful, as it allowed me to gain a deeper understanding of my physical activity levels, sleep patterns, and overall health. The data also allowed me to identify patterns and trends in my activity levels, which I could use to set new goals and make adjustments to my daily routine. Overall, exploring my Fitbit data was a valuable experience that has motivated me to stay active and prioritize my health and well-being.</p>
 
-<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</p>
+<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</a>
