@@ -114,7 +114,7 @@ Comparing my sleep stages between Canada and Colombia:
 Finally, it's important to assess whether there is any correlation between the duration of my sleep and the other variables.
 
 <p align="center">
-  <img src="images/sleep_corr.png"style="height:383px; width:472px"/>   
+  <img src="images/sleep_corr.png" style="height:383px; width:472px"/>   
 </p>
 <p align="center">
     <em>Correlation between variables</em>
@@ -128,4 +128,16 @@ Surprisingly, the data suggests that my transition from Colombia to Canada had l
 
 #### Activity analysis
 
+<p align="justify">According to <a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity">World Health Organization (WHO)</a>, it is recommended that adults engage in at least 150-300 minutes of moderate-intensity aerobic physical activity, or 75-150 minutes of vigorous-intensity aerobic physical activity, or a combination of both types of activity every week. It's also suggested that muscle-strengthening activities that work all major muscle groups be performed at moderate or greater intensity on 2 or more days per week. By following these recommendations, individuals can improve their overall health and well-being.
+
+To stay active during the week, I've been running on a treadmill or outdoors (when possible) and working out at the gym. Based on the graph below, I discovered that during my time in Colombia, I was averaging two strength exercises per week and running for 163 minutes per week, which is just within the lower recommended threshold. Unfortunately, since moving to Canada, my activity levels have worsened. I'm now working out at the gym an average of 1.5 times per week and running for only 142 minutes per week.</p>
+
+<p align="center">
+  <img src="images/activity_mean_country.png"/>   
+</p>
+<p align="center">
+    <em>Strenght and Cardio activity</em>
+</p>
+
+<p align="justify">I'm shocked to learn that my current level of physical activity is falling below the recommended guidelines set by the World Health Organization (WHO). Despite considering myself a very active person, my average activity falls slightly below the recommended levels. While I can attribute this to factors like the Canadian winter and a busy schedule with work and studies, the reality is that I need to increase both the frequency and duration of my exercise routine.</p>
 
