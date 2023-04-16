@@ -153,3 +153,14 @@ To stay active during the week, I've been running on a treadmill or outdoors (wh
 #### Does Exercise Impact Sleep Quality?
 
 Finally, let's examine whether the amount of exercise has any relationship to the amount and quality of my sleep.
+
+<p align="center">
+  <img src="images/activity_vs_sleep.png" style="height:412px; width:540px"/>   
+</p>
+<p align="center">
+    <em>Activity vs Sleep</em>
+</p>
+
+<p align="justify">According to the <a href="https://www.sleepfoundation.org/physical-activity/exercise-and-sleep">Sleep Foundation</a>, exercising improves sleep for many people by enhancing sleep quality and reducing the time it takes to fall asleep. However, based on my data, it appears that I am not one of those individuals. While I could not find a strong correlation between active levels of activity and sleep duration, I did observe a negative impact on the time I spend sleeping when I am sedentary.</p>
+
+
